@@ -1,2 +1,2 @@
 # My-first-project
-Auther- saidurgaprasad
+This is my first Repository Author- saidurgaprasad
